@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Mohsi777999/Mohsi777999/blob/main/First%20Quarter%20Proposal.jpg)
 <h1 align="center">Hi 👋, I'm Mohsin Ali.</h1>
 <h1 align="center">Nice to meet you!</h1>
 
@@ -22,13 +22,12 @@
         alt="laravel" width="50" height="50" />
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
         alt="mysql" width="50" height="50" />
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" />
 </p>
 
 <p align="center" style="margin-top: 50px;">
     - 🌱 I’m currently learning ** React.js & Wordpress **
 
-    - 👨‍💻 My Portfolio https://mohsi777999.github.io/My-Portfolio/
+    - 👨‍💻 My Portfolio (https://mohsi777999.github.io/My-Portfolio/)
 
     - ⚡ I'm Serious About My Goals & Always Focus
 
@@ -52,10 +51,6 @@
             alt="panhwer_mohsin_ali" height="30" width="40" /></a>
 </p>
 
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=mohsi777999&" alt="mohsi777999" />
 </p>
 
