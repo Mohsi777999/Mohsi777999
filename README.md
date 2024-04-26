@@ -29,7 +29,7 @@
 
     - 👨‍💻 My Portfolio (https://mohsi777999.github.io/My-Portfolio/)
 
-    - ⚡ I'm Serious About My Goals & Always Focus
+    - ⚡ I don't like shitty hardwork , i like smart work.
 
     - 📫 How to reach me ** panhwermohsinali@gmail.com **
 </p>
