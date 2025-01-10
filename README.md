@@ -20,7 +20,7 @@
         height="50" />
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
         alt="mysql" width="50" height="50" /> -->
-    <h1>HTML</h1>
+    <h1 align="center">HTML</h1>
     <h1>CSS</h1>
 </p>
 
