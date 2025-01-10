@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mohsin Ali.</h1>
 <h1 align="center">Nice to meet you!</h1>
 
-<h2 align="center">A Passionate Web Developer From Pakistan</h2>
+<h2 align="center">A Passionate Web Developer & Ai Student From Pakistan</h2>
 
 
 
