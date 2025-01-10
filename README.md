@@ -20,8 +20,8 @@
         height="50" />
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
         alt="mysql" width="50" height="50" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cpp/cpp-original-wordmark.svg"
-        alt="cpp" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c++/c++-original-wordmark.svg"
+        alt="c++" width="50" height="50" />
 </p>
 
 <p align="center" style="margin-top: 50px;">
