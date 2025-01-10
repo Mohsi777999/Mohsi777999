@@ -8,7 +8,7 @@
 
 <h3 align="center">Languages I am currently playing around with:</h3>
 <p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+<!--     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
         alt="html5" width="50" height="50" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
         alt="css3" width="50" height="50" />
@@ -19,9 +19,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50"
         height="50" />
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-        alt="mysql" width="50" height="50" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c++/c++-original-wordmark.svg"
-        alt="c++" width="50" height="50" />
+        alt="mysql" width="50" height="50" /> -->
+    <h1>HTML</h1>
+    <h1>CSS</h1>
 </p>
 
 <p align="center" style="margin-top: 50px;">
