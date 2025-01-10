@@ -21,7 +21,15 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
         alt="mysql" width="50" height="50" /> -->
     <h1 align="center">HTML</h1>
-    <h1>CSS</h1>
+    <h1 align="center">CSS</h1>
+    <h1 align="center">JavaScript (ES6)</h1>
+    <h1 align="center">Python</h1>   
+    <h1 align="center">Bootstrap</h1>
+    <h1 align="center">Jquery</h1>
+    <h1 align="center">PHP</h1>
+    <h1 align="center">MySQL</h1>
+    <h1 align="center">C++</h1>
+    <h1 align="center">C</h1>
 </p>
 
 <p align="center" style="margin-top: 50px;">
