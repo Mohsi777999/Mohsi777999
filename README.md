@@ -28,8 +28,8 @@
     <h1 align="center">Jquery</h1>
     <h1 align="center">PHP</h1>
     <h1 align="center">MySQL</h1>
-    <h1 align="center">C++</h1>
-    <h1 align="center">C</h1>
+    <h1 align="center">C/C++</h1>
+    <h1 align="center">Java</h1>
 </p>
 
 <p align="center" style="margin-top: 50px;">
@@ -37,7 +37,7 @@
 
     - 👨‍💻 My Portfolio (https://mohsi777999.github.io/My-Portfolio/)
 
-    - ⚡ I don't like shitty hardwork , i like smart work.
+    - ⚡ I don't like hardwork , i like smart work.
 
     - 📫 How to reach me ** panhwermohsinali@gmail.com **
 </p>
